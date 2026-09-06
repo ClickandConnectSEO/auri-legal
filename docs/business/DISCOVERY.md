@@ -15,17 +15,20 @@ Also: your own metro. Search "home care agency near me", take the top 30, and ca
 
 > Hi [name], I am building a tool for home care agencies and I am trying to understand how families stay informed after a visit. Not selling anything. 15 minutes on the phone?
 
-## The five questions
+## The six questions
 
-Ask these five, in this order, every time. Do not pitch. Write down their words, not your summary.
+Ask these six, in this order, every time. Do not pitch. Write down their words, not your summary.
 
 1. **Walk me through what happens after a caregiver finishes a visit.** Who writes what down, and where does it go?
 2. **How does the family find out how the visit went?** Who calls whom, and how often?
 3. **When you lose a private-pay client, what is the reason they give?**
 4. **What software do you already pay for, and what does it cost you a month?**
 5. **If families got a short update after every visit, automatically, what would that be worth to you a month?**
+6. **How many caregivers do you have on payroll right now?**
 
-Then stay quiet. The silence after question five is where the price comes from.
+Stay quiet after question five. The silence is where the price comes from.
+
+Question six is not small talk. Pricing is a base fee plus a per-caregiver rate, so the spread of caregiver counts across twenty agencies sets that rate. Record the number, not a range.
 
 ## Scoring
 
@@ -38,10 +41,10 @@ Count a call as a **strong yes** only if the owner asks, unprompted, when they a
 
 ## Log
 
-| # | Date | Agency | Owner | Q1 after-visit process | Q2 family comms today | Q3 churn reason | Q4 current spend | Q5 stated value | Strong yes? |
-|---|---|---|---|---|---|---|---|---|---|
-| 1 | | | | | | | | | |
-| 2 | | | | | | | | | |
-| 3 | | | | | | | | | |
+| # | Date | Agency | Owner | Q1 after-visit process | Q2 family comms today | Q3 churn reason | Q4 current spend | Q5 stated value | Q6 caregivers | Strong yes? |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | | | | | | | | | | |
+| 2 | | | | | | | | | | |
+| 3 | | | | | | | | | | |
 
 Add rows as you go. Twenty before any code.

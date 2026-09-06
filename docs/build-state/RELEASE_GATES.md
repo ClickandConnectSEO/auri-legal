@@ -4,9 +4,10 @@ Evidence or blank. Never mark a gate done by narrative.
 
 ## Phase 0 — validation (current)
 
-- [ ] 20 discovery calls logged — evidence: — blocked on: scheduling
+- [ ] 20 discovery calls logged, six questions each — evidence: — blocked on: scheduling
 - [ ] 8+ owners asked "when can I have it" — evidence: — blocked on: calls
-- [ ] Price of $149/mo verbally accepted by 3+ owners — evidence: — blocked on: calls
+- [ ] Caregiver headcount recorded for all 20, per-caregiver rate set from the spread — evidence: — blocked on: calls
+- [ ] Base + per-caregiver price verbally accepted by 3+ owners — evidence: — blocked on: calls
 
 ## Phase 1 — compliance foundation
 
@@ -33,4 +34,10 @@ Evidence or blank. Never mark a gate done by narrative.
 
 - [ ] Stripe live, trial-to-paid conversion working end to end — evidence: — blocked on: Phase 2
 - [ ] 3 design partners with families actively receiving updates — evidence: — blocked on: Phase 2
-- [ ] First signed $149/mo contract — evidence: — blocked on: all above
+- [ ] Usage metering counts active caregivers per agency exactly as the invoice does — evidence: — blocked on: Phase 2
+- [ ] First signed contract at the full per-caregiver rate — evidence: — blocked on: all above
+
+## Phase 4 — scale (stage 3, year 3)
+
+- [ ] SOC 2 Type II report, required for multi-location and franchise buyers — evidence: — blocked on: revenue funding $25-40k
+- [ ] Net revenue retention above 120%, measured over 12 months — evidence: — blocked on: module ladder shipping
